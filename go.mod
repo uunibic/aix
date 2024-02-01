@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/aix
+module github.com/uunibic/aix
 
 go 1.19
 
