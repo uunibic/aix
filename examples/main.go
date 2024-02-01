@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/projectdiscovery/aix/internal/runner"
+	"github.com/uunibic/aix/runner"
 	"github.com/projectdiscovery/gologger"
 )
 
