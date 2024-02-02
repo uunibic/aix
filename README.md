@@ -11,7 +11,7 @@
 
 ## Purpose
 
-The only purpose to fork this project was to use it as a library by exporting runner. Thanks to the [ProjectDiscovery](https://projectdiscovery.io/) team for releasing out AIx.
+The only purpose to fork this project was to use it as a library by exposing runner. Thanks to the [ProjectDiscovery](https://projectdiscovery.io/) team for releasing out AIx.
 
 ## Acknowledgements
 
